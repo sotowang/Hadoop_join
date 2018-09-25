@@ -1,4 +1,4 @@
-package com.hadoop;
+package com.hadoop.join;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
